@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">LocateMyDevice</string>
+    <string name="title_activity_maps">Geofence</string>
+    <string name="google_maps_key">AIzaSyBSp32prHO7rbed-__Ic6rMv6bxpTmvTDE</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="email">Email</string>
+    <string name="email_error">Email Error</string>
+    <string name="email_errore">email error details</string>
+    <string name="email_details">Email Details</string>
+    <string name="name_of_startup">StartUp Name</string>
+    <string name="enter_full_name">Enter the full name of your Startup</string>
+    <string name="choose_industry">Choose Industry</string>
+    <string name="choose_resp_industry">Choose your respective Industry</string>
+    <string name="eroor">Error</string>
+    <string name="choose_sector">Choose Sector</string>
+    <string name="reg_no">Registration No.</string>
+    <string name="not_valid">Not valid</string>
+    <string name="reg_date">Registration Date</string>
+    <string name="pan_no">StartUp Pan No.</string>
+    <string name="enter_pan">Enter your startup pan number</string>
+    <string name="enter_reg_no">Enter your Startup registration number</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="choose_resp_category">Choose your respective category</string>
+    <string name="choose_resp_sector">Choose your respective sector</string>
+    <string name="enter_startup_reg">Enter Your Startup Registration No.</string>
+    <string name="enter_reg_date">Enter your Startup registration Date</string>
+
+    <string name="channel_name">channel</string>
+    <string name="ind_reg">Login using OTP</string>
+    <string name="device_reg">Device Registration</string>
+
+    <string name="tracker">Tracker</string>
+    <string name="tracker_details">Add Tracker</string>
+    <string name="tracker_name">Tracker Name</string>
+    <string name="tracker_name_details">Enter Tracker Name</string>
+    <string name="IMEI_number">Tracker IMEI Number</string>
+    <string name="IMEI_not_valid">Enter 15 digit valid IMEI Number</string>
+    <string name="IMEI_number_details">Enter Tracker IMEI Number</string>
+
+
+    <string name="find_a_scheme_that_is_right_for_you">Find a scheme that is right for you</string>
+    <string name="register_your_startup">Register your Start-up</string>
+    <string name="News">News and Schemes around you</string>
+    <string name="maps">Banks and Schemes around you</string>
+    <string name="probono">Pro-Bono Service</string>
+    <string name="loanRange">Loan Range: Rs</string>
+    <string name="start_up_mitra">Start-Up Mitra</string>
+    <string name="startup_mitra">Startup Mitra</string>
+    <string name="start_up_name">Start-Up name</string>
+    <string name="_98fit_pvt_ltd">98fit Pvt. ltd</string>
+    <string name="qr_code">H2349</string>
+    <string name="qr_code_text">QR Code</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="start_up_mitra_caps">START-UP MITRA</string>
+    <string name="your_startup_companion">Your startup companion</string>
+    <string name="sector_industry">Sector/Industry</string>
+    <string name="collateral">Collateral</string>
+    <string name="loan_range">Loan Range</string>
+    <string name="other_info">Other Info</string>
+    <string name="let_s_recommend">Let\'s Recommend</string>
+    <string name="all_of_start_up_one_platform">All of Start-up, one platform</string>
+
+    <string name="hello_there">Hello, there</string>
+    <string name="what_is_you_adhaar_number">What is you aadhaar number ?</string>
+    <string name="_1234_5678_9012">1234 5678 9012</string>
+    <string name="skip">Skip</string>
+    <string name="proceed">Proceed</string>
+    <string name="string">जारी रहना</string>
+    <string name="pickhindi">हिंदी</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="pick">Pick</string>
+    <string name="continuee">Continue</string>
+    <string name="sector">Sector</string>
+    <string name="education">Education</string>
+    <string name="it_services">IT Services</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="sec_agnostic">Sector-agnostic</string>
+    <string name="travel">Travel &amp; tourism</string>
+    <string name="energy">Energy</string>
+    <string name="health">Healthcare &amp; Fitness</string>
+    <string name="option">---Option--</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="marathi">मराठी</string>
+    <string name="industry">Industry</string>
+    <string name="password">Password</string>
+    <string name="password_error">Password length should be greater than 5</string>
+    <string name="password_details">Create Your Password</string>
+
+    <string name="name_details">Enter your name</string>
+
+    <string name="email_details_text">Enter your email address</string>
+    <string name="contact">Contact No.</string>
+
+    <string name="mobile_detail_text">Enter your mobile number</string>
+    <string name="title_activity_phone_auth">PhoneAuthActivity</string>
+
+</resources>
